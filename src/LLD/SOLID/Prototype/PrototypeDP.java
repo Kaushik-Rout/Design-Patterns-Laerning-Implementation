@@ -1,4 +1,5 @@
 package LLD.SOLID.Prototype;
 
-public class PrototypeDP {
+public interface PrototypeDP<T> {
+    T clone();
 }
