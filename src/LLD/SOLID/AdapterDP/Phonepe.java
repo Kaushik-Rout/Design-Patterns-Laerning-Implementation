@@ -12,5 +12,4 @@ public class Phonepe {
         bankAPI.getBalance("8564128");
         bankAPI.registerAccount("9692107969");
     }
-
 }
