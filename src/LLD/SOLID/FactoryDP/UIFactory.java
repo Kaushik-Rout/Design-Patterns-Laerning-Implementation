@@ -1,7 +1,7 @@
-package LLD.SOLID.Factory;
+package LLD.SOLID.FactoryDP;
 
-import LLD.SOLID.Factory.Components.Button.Button;
-import LLD.SOLID.Factory.Components.Menu.Menu;
+import LLD.SOLID.FactoryDP.Components.Button.Button;
+import LLD.SOLID.FactoryDP.Components.Menu.Menu;
 
 public interface UIFactory {
 
