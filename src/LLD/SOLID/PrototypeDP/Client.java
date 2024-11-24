@@ -1,4 +1,4 @@
-package LLD.SOLID.Prototype;
+package LLD.SOLID.PrototypeDP;
 
 public class Client {
     public static void main(String[] args) {

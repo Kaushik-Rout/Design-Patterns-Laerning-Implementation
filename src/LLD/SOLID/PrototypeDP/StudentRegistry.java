@@ -1,4 +1,4 @@
-package LLD.SOLID.Prototype;
+package LLD.SOLID.PrototypeDP;
 
 import java.util.HashMap;
 import java.util.Map;
